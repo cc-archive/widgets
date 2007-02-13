@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowInternetPlugins</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>BackwardsCompatibleClassLookup</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>ccmixter.org editors picks</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.ccmixter.widget.remixes</string>
+	<key>CFBundleName</key>
+	<string>ccmixter.org editors picks</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>0.7</string>
+	<key>CloseBoxInsetX</key>
+	<integer>44</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>13</integer>
+	<key>Height</key>
+	<integer>140</integer>
+	<key>MainHTML</key>
+	<string>ccmixter.org editors picks.html</string>
+	<key>Width</key>
+	<integer>400</integer>
+</dict>
+</plist>
